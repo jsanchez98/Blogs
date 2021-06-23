@@ -1,1 +1,1 @@
-# MicroBlogs
+# Blogs
