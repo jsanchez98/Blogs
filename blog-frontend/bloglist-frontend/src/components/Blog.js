@@ -57,7 +57,6 @@ const Blog = ({ blog }) => {
     try {
       if (window.confirm(`Delete ${blog.title}`)) {
         await blogService.remove(blog.id)
-        console.log('REACHED')
         dispatch(removeBlog(blog))
         dispatch(notificationChange(`${blog.title} deleted`, 5))
       }

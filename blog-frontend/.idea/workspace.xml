@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64883191-f716-4870-95de-5603cb4652e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bloglist-frontend/src/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog-backend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-backend/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog-backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-backend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bloglist-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bloglist-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist-frontend/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/src/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist-frontend/src/components/Blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/src/components/Blog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bloglist-frontend/src/components/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/src/components/LoginForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,33 +122,50 @@
       <workItem from="1621372883712" duration="1877000" />
       <workItem from="1621375566788" duration="53000" />
       <workItem from="1623410970825" duration="239000" />
-      <workItem from="1624551230912" duration="5443000" />
+      <workItem from="1624551230912" duration="5706000" />
+      <workItem from="1624566186937" duration="4827000" />
     </task>
+    <task id="LOCAL-00001" summary="Centered login form">
+      <created>1624557106941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624557106941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Centered login form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Centered login form" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2502" y="29" key="CommitChangelistDialog2" timestamp="1624557105345">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2502" y="29" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624557105345" />
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1623410984114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1623410984114" />
-    <state width="1897" height="482" key="GridCell.Tab.0.bottom" timestamp="1624553727277">
+    <state width="1897" height="482" key="GridCell.Tab.0.bottom" timestamp="1624557113697">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="482" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624553727277" />
-    <state width="1897" height="482" key="GridCell.Tab.0.center" timestamp="1624553727276">
+    <state width="1897" height="482" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624557113697" />
+    <state width="1897" height="482" key="GridCell.Tab.0.center" timestamp="1624557113696">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="482" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624553727276" />
-    <state width="1897" height="482" key="GridCell.Tab.0.left" timestamp="1624553727276">
+    <state width="1897" height="482" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624557113696" />
+    <state width="1897" height="482" key="GridCell.Tab.0.left" timestamp="1624557113696">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="482" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624553727276" />
-    <state width="1897" height="482" key="GridCell.Tab.0.right" timestamp="1624553727277">
+    <state width="1897" height="482" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624557113696" />
+    <state width="1897" height="482" key="GridCell.Tab.0.right" timestamp="1624557113697">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1897" height="482" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624553727277" />
+    <state width="1897" height="482" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624557113697" />
   </component>
 </project>

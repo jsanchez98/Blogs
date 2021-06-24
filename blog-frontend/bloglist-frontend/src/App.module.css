@@ -8,3 +8,33 @@
     right: 0;
     margin: auto
 }
+
+.paper {
+    margin-top: 64%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.avatar {
+    margin: 2%;
+    margin-left: 45%;
+    background-color: #6D73D4;
+}
+
+.tf {
+    background: linear-gradient(45deg, #BB98D4 30%, #c694d4 50%);
+    box-shadow: 0 3px 5px 2px rgba(255, 105, 135, 0.3);
+    border-radius: 3%;
+    color: white;
+    border: 0;
+    -webkit-text-fill-color: aliceblue;
+}
+
+.floatingLabelFocusStyle {
+    color: #ffffff;
+}
+
+.submit {
+    margin: 25% 0 25%;
+}

@@ -113,7 +113,7 @@ const App = () => {
                 </Route>
                 <Route path='/'>
                     <div className={styles.centered}>
-                        <h1 style={{textAlign:"center"}}>A Blogging App </h1>
+                        {user !== null && <h1 style={{textAlign:"center"}}>A Blogging App </h1>}
                     </div>
                 </Route>
             </Switch>
