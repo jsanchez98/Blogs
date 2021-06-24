@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64883191-f716-4870-95de-5603cb4652e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloglist-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloglist-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloglist-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloglist-frontend/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/src/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloglist-frontend/src/components/Blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/src/components/Blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloglist-frontend/src/components/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist-frontend/src/components/LoginForm.js" afterDir="false" />
-    </list>
+    <list default="true" id="64883191-f716-4870-95de-5603cb4652e7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +116,7 @@
       <workItem from="1623410970825" duration="239000" />
       <workItem from="1624551230912" duration="5706000" />
       <workItem from="1624566186937" duration="4827000" />
+      <workItem from="1624571116046" duration="129000" />
     </task>
     <task id="LOCAL-00001" summary="Centered login form">
       <created>1624557106941</created>
@@ -132,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624557106941</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Redesigned login page (material design)">
+      <created>1624571240743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624571240743</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,13 +140,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Centered login form" />
-    <option name="LAST_COMMIT_MESSAGE" value="Centered login form" />
+    <MESSAGE value="Redesigned login page (material design)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redesigned login page (material design)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2502" y="29" key="CommitChangelistDialog2" timestamp="1624557105345">
+    <state x="2502" y="29" key="CommitChangelistDialog2" timestamp="1624571239119">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2502" y="29" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624557105345" />
+    <state x="2502" y="29" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624571239119" />
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1623410984114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
