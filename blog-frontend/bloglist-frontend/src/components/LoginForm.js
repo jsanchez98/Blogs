@@ -5,6 +5,7 @@ import {setUser} from "../reducers/userReducer"
 import {notificationChange} from "../reducers/notificationReducer"
 import {useDispatch} from 'react-redux'
 import {useHistory} from "react-router-dom"
+import styles from '../App.module.css'
 
 const useField = (id, type, name) => {
     const [value, setValue] = useState('')
@@ -51,7 +52,7 @@ const LoginForm = () => {
     }
 
     return(
-        <>
+        <div className={styles.centered}>
             <h1>log in to application</h1>
             <form onSubmit = {handleLogin}>
                 <div>
@@ -68,7 +69,7 @@ const LoginForm = () => {
                 </div>
                 <button id='login-button' type='submit'>login</button>
             </form>
-        </>
+        </div>
     )
 }
 

@@ -13,6 +13,7 @@ import Menu from './components/Menu'
 import User from './components/User'
 import userService from "./services/users"
 import BlogView from './components/BlogView'
+import styles from './App.module.css'
 
 const Notification = ({message}) => {
     if(message === null){
@@ -111,7 +112,8 @@ const App = () => {
                     {user !== null && <Users users={users} setUsers={setUsers}/>}
                 </Route>
                 <Route path='/'>
-                    <div>
+                    <div className={styles.centered}>
+                        <h1 style={{textAlign:"center"}}>A Blogging App </h1>
                     </div>
                 </Route>
             </Switch>
