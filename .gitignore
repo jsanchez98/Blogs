@@ -1,6 +1,6 @@
 */node_modules/
 */*/node_modules/
 
-blog-backend/.git
+./blog-backend/.git
 
-blog-frontend/blog-backend
+./blog-frontend/blog-backend

@@ -2,7 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64883191-f716-4870-95de-5603cb4652e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../blog-backend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.idea/bloglistnode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.idea/dictionaries/jfgs2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/1.2.45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/2.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/9.0.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/Controllers/blogRouteHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/Controllers/loginRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/Controllers/testRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/Controllers/userRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/Test.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/precache-manifest.34c0a4803a3c6bf91901db0c9572180b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/static/css/main.5c64a2ca.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/static/css/main.5c64a2ca.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/static/js/2.558acacf.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/static/js/2.558acacf.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/static/js/2.558acacf.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/static/js/main.0b4ac12b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/static/js/main.0b4ac12b.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/static/js/runtime-main.63d0d90a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/build/static/js/runtime-main.63d0d90a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/models/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/models/blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/npm-debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/tests/blog_api.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/tests/blogapi_test_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/tests/list_helper.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/tests/npm-debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/tests/test_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/tests/user_api.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/utils/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/utils/list_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/utils/logger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-backend/utils/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/precache-manifest.34c0a4803a3c6bf91901db0c9572180b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/static/css/main.5c64a2ca.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/static/css/main.5c64a2ca.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/static/js/2.558acacf.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/static/js/2.558acacf.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/static/js/2.558acacf.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/static/js/main.0b4ac12b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/static/js/main.0b4ac12b.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/static/js/runtime-main.63d0d90a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/static/js/runtime-main.63d0d90a.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +203,7 @@
       <workItem from="1624998318831" duration="72000" />
       <workItem from="1624998855383" duration="4218000" />
       <workItem from="1625073292843" duration="2868000" />
-      <workItem from="1625140495235" duration="646000" />
+      <workItem from="1625140495235" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="Centered login form">
       <created>1624557106941</created>
