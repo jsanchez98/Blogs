@@ -72,7 +72,7 @@ const LoginForm = () => {
                 <Avatar className={styles.avatar}>
                     <AccountCircleIcon/>
                 </Avatar>
-                <form onSubmit = {handleLogin}>
+                <form onSubmit = {handleLogin} noValidate>
                     <TextField margin='normal' required className={styles.tf}
                                fullWidth id='username' variant='filled'
                                label='Username' name='username'
