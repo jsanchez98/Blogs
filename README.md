@@ -1,1 +1,1 @@
-# Blogs
+# A Blogging App
